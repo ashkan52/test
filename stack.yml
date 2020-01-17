@@ -6,5 +6,5 @@ functions:
   helloworld:
     lang: go
     handler: ./helloworld
-    image: marami52/helloworld:latest
+    image: ashkan52/helloworld:latest
 
