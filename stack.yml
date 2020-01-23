@@ -23,7 +23,4 @@ functions:
     lang: go
     handler: ./helloworld
     image: ashkan52/helloworld4:latest
-  helloworld5:
-    lang: go
-    handler: ./helloworld
-    image: ashkan52/helloworld5:latest
+
