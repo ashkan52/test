@@ -10,20 +10,20 @@ functions:
   helloworld1:
     lang: go
     handler: ./helloworld
-    image: ashkan52/helloworld:latest
+    image: ashkan52/helloworld1:latest
   helloworld2:
     lang: go
     handler: ./helloworld
-    image: ashkan52/helloworld:latest
+    image: ashkan52/helloworld2:latest
   helloworld3:
     lang: go
     handler: ./helloworld
-    image: ashkan52/helloworld:latest
+    image: ashkan52/helloworld3:latest
   helloworld4:
     lang: go
     handler: ./helloworld
-    image: ashkan52/helloworld:latest
+    image: ashkan52/helloworld4:latest
   helloworld5:
     lang: go
     handler: ./helloworld
-    image: ashkan52/helloworld:latest
+    image: ashkan52/helloworld5:latest
