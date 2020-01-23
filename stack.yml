@@ -7,4 +7,11 @@ functions:
     lang: go
     handler: ./helloworld
     image: ashkan52/helloworld:latest
-
+  helloworld1:
+    lang: go
+    handler: ./helloworld
+    image: ashkan52/helloworld:latest
+  helloworld2:
+    lang: go
+    handler: ./helloworld
+    image: ashkan52/helloworld:latest
