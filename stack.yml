@@ -15,12 +15,5 @@ functions:
     lang: go
     handler: ./helloworld
     image: ashkan52/helloworld2:latest
-  helloworld3:
-    lang: go
-    handler: ./helloworld
-    image: ashkan52/helloworld3:latest
-  helloworld4:
-    lang: go
-    handler: ./helloworld
-    image: ashkan52/helloworld4:latest
+
 
